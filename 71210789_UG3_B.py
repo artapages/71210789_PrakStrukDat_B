@@ -13,7 +13,7 @@ for i in range(data):
 print(dict)
 output = int(input("Data ditampilkan: "))
 
-if output in dict.keys():
+if output in dict.keys()c:
     print(dict[output])
 else:
     print("Data tidak ditemukan")
